@@ -1,1 +1,7 @@
 pandas==1.2.0
+numpy==1.19.1
+time
+tensorflow==1.14.0
+scikit-learn==1.0.2
+matplotlib==3.3.2
+IPython==7.19.0
